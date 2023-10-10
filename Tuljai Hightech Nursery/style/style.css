@@ -1,0 +1,43 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.logo {
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: #2b2828;
+    padding: 24px 0;
+}
+
+.foot {
+    text-decoration: solid;
+    font-size: 1.3rem;
+    color: white;
+    padding-left: 20px;
+}
+
+hr.dashed {
+    border-top: 5px dashed #999;
+}
+
+.d1 {
+    height: 100%;
+}
+u{
+    border-bottom:2px solid red; 
+    text-decoration: none;
+}
+nav{
+    background-color: #f2f2f4;
+    
+}
+#se1,#se3,#se5{
+    background-color: #fafafa;
+}
+#se2,#se4{
+    background-color: #f2f2f4;
+}
